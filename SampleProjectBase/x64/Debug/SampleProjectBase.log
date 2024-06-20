@@ -1,0 +1,8 @@
+﻿C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\PS_PBR.hlsl(182,12-34): warning X3206: implicit truncation of vector type
+C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\PS_PBR.hlsl(199,12-55): warning X3206: implicit truncation of vector type
+C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\PS_PBR.hlsl(205,22-70): warning X3206: implicit truncation of vector type
+C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\PS_PBR.hlsl(209,12-88): warning X3206: implicit truncation of vector type
+C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\PS_PBR.hlsl(220,5-37): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\SampleProjectBase\Assets\Shader\PS_PBR.cso
+  SampleProjectBase.vcxproj -> C:\Users\58472\Desktop\Hal\3rd Year\SP\SampleProjectBase\SampleProjectBase\x64\Debug\SampleProjectBase.exe
